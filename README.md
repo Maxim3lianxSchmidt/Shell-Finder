@@ -1,5 +1,6 @@
 # Shell-Finder
 
+<img alt="YAP" src="https://i.imgur.com/ORZfHNN.png">
 
 -/ + 1000 Shells Daily - > ( For List Method : @Maxim3lian )
 
